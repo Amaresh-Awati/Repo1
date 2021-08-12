@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 38E3-A040
+
+ Directory of C:\Users\Rohini\OneDrive\Desktop\MyProject
+
+12-08-2021  01:01 PM    <DIR>          .
+12-08-2021  01:01 PM    <DIR>          ..
+12-08-2021  12:45 PM                35 index.html
+12-08-2021  12:45 PM               375 test1.txt
+12-08-2021  01:01 PM                 0 test2.txt
+               3 File(s)            410 bytes
+               2 Dir(s)  86,777,421,824 bytes free
